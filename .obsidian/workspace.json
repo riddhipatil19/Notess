@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "26e8beb07f64a4f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "734553a7bb1274a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc55d2cd896b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.23 What_is_Inheritance (1)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e927420ef94bc394",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81d3101f2b51614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ecdffbf763bc032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "145f3cd334897bef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Spring Boot/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f47939437d5c01d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "46efb5982e7ae1a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e691821c6b5a9a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe615b86968a293",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.23 What_is_Inheritance (1)"
+            }
+          },
+          {
+            "id": "0065eb82f2186f64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fbe61e41f8a79427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "639504cdbe7d395c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.23 What_is_Inheritance (1)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ecdffbf763bc032",
+  "lastOpenFiles": [
+    "Spring Boot/12. Spring Boot Web/4. Servlet_Mapping.pdf",
+    "Spring Boot/12. Spring Boot Web/1. Web_Applications_Introduction.pdf",
+    "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
+    "Spring Boot/1. Core Java/1.22 Need_For_Inheritance.pdf",
+    "Spring Boot/1. Core Java/1.20 Constructor.pdf",
+    "Spring Boot/1. Core Java/1.21 Default_vs_Parameterized_Constructor (1).pdf",
+    "Spring Boot/1. Core Java/1.19 This__keyword.pdf",
+    "Spring Boot/1. Core Java/1.17 Encapsulation.pdf",
+    "Spring Boot/1. Core Java/1.18 Getters_and_Seters.pdf",
+    "Spring Boot/1. Core Java/1.16 Static_Block.pdf",
+    "Spring Boot/1. Core Java/1.13 StringBuffer_and__StringBuilder.pdf",
+    "Spring Boot/12. Spring Boot Web/Introduction to Web Applications.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Spring Boot/Untitled 1.md",
+    "Spring Boot/Untitled.md",
+    "Welcome.md"
+  ]
+}
