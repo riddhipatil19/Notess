@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "734553a7bb1274a5",
+        "id": "59550966e8b462ca",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc55d2cd896b6f3",
+            "id": "7a6583596554df36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1.23 What_is_Inheritance (1)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
+                "file": "DBMS/SQL Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.23 What_is_Inheritance (1)"
+              "title": "Backlinks for SQL Notes"
             }
           },
           {
@@ -139,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
+                "file": "DBMS/SQL Notes.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.23 What_is_Inheritance (1)"
+              "title": "Outline of SQL Notes"
             }
           }
         ],
@@ -168,17 +166,17 @@
   },
   "active": "7ecdffbf763bc032",
   "lastOpenFiles": [
-    "Spring Boot/12. Spring Boot Web/4. Servlet_Mapping.pdf",
-    "Spring Boot/12. Spring Boot Web/1. Web_Applications_Introduction.pdf",
-    "Spring Boot/1. Core Java/1.23 What_is_Inheritance (1).pdf",
-    "Spring Boot/1. Core Java/1.22 Need_For_Inheritance.pdf",
-    "Spring Boot/1. Core Java/1.20 Constructor.pdf",
-    "Spring Boot/1. Core Java/1.21 Default_vs_Parameterized_Constructor (1).pdf",
-    "Spring Boot/1. Core Java/1.19 This__keyword.pdf",
-    "Spring Boot/1. Core Java/1.17 Encapsulation.pdf",
-    "Spring Boot/1. Core Java/1.18 Getters_and_Seters.pdf",
-    "Spring Boot/1. Core Java/1.16 Static_Block.pdf",
-    "Spring Boot/1. Core Java/1.13 StringBuffer_and__StringBuilder.pdf",
+    "DSA",
+    "Core Java/26 This_and_super_method.pdf",
+    "DBMS/SQL Notes.pdf",
+    "DBMS",
+    "Spring Boot/4. Spring/4.6 Autowiring_In_Spring_Boot.pdf",
+    "Spring Boot/4. Spring/4.5 DI_Using_Spring_Boot.pdf",
+    "Spring Boot/4. Spring/4.4 Spring_vs_Spring_Boot.pdf",
+    "Spring Boot/4. Spring/4.2 Prerequisites.pdf",
+    "Spring Boot/4. Spring/4.3 Inversion+of+Control+(IoC)+and+Dependency+Injection+(DI).pdf",
+    "Spring Boot/4. Spring/4.1 Introduction_to_Spring.pdf",
+    "Spring Boot/4. Spring",
     "Spring Boot/12. Spring Boot Web/Introduction to Web Applications.md",
     "Untitled.md",
     "Untitled 1.md",
