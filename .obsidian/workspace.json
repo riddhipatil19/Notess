@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "59550966e8b462ca",
+        "id": "5f890e18953706a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7a6583596554df36",
+            "id": "e1f74851d9582192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "DBMS/SQL Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SQL Notes"
+            }
+          },
+          {
+            "id": "61b7557ecf13e903",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring Boot/15. REST using Spring Boot/15.8 Content_Negotiation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "15.8 Content_Negotiation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Spring Boot/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 285.5
   },
   "right": {
     "id": "46efb5982e7ae1a0",
@@ -137,21 +152,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/SQL Notes.pdf",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL Notes"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -161,27 +175,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7ecdffbf763bc032",
   "lastOpenFiles": [
-    "DSA",
-    "Core Java/26 This_and_super_method.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.6 Sending_Data_and_RequestBody.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.7 Put_and_Delete_Mapping.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.3 Creating_a_Rest_Controller.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.4 Connecting_React_and_Spring.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.2 What_is_REST.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.1 REST using Spring Boot – Introduction.md",
     "DBMS/SQL Notes.pdf",
-    "DBMS",
-    "Spring Boot/4. Spring/4.6 Autowiring_In_Spring_Boot.pdf",
-    "Spring Boot/4. Spring/4.5 DI_Using_Spring_Boot.pdf",
-    "Spring Boot/4. Spring/4.4 Spring_vs_Spring_Boot.pdf",
-    "Spring Boot/4. Spring/4.2 Prerequisites.pdf",
-    "Spring Boot/4. Spring/4.3 Inversion+of+Control+(IoC)+and+Dependency+Injection+(DI).pdf",
-    "Spring Boot/4. Spring/4.1 Introduction_to_Spring.pdf",
-    "Spring Boot/4. Spring",
-    "Spring Boot/12. Spring Boot Web/Introduction to Web Applications.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Spring Boot/Untitled 1.md",
-    "Spring Boot/Untitled.md",
-    "Welcome.md"
+    "Spring Boot/15. REST using Spring Boot/15.5 PathVariable.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.3 Http_Methods.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.5 Working_with_Postman.pdf",
+    "Spring Boot/15. REST using Spring Boot/15.4 Understanding_the_React_UI.pdf",
+    "Spring Boot/15. REST using Spring Boot/Sending_Data_and_RequestBody (1).pdf",
+    "Pasted image 20250722142142.png",
+    "Pasted image 20250717121713.png",
+    "DBMS/SQL Notes.md",
+    "Daily Tasks.md",
+    "DBMS/DQL.md",
+    "DBMS/SQL.md",
+    "DSA/Arraylist.md",
+    "DSA/String.md",
+    "DSA/DP.md",
+    "DSA/Tree.md",
+    "DSA/Backtracking.md",
+    "DSA/Greedy.md",
+    "DSA/Queue.md",
+    "DSA/Stack.md",
+    "DSA/Recursion.md",
+    "DSA/Linked_List.md",
+    "DSA/Space_Complexity.md",
+    "DSA/Time_complexity.md",
+    "DSA/Sorting.md",
+    "DSA/Searching.md",
+    "DSA/Hashing/HashSet.md",
+    "DSA/StringBuilder.md",
+    "DSA/Arrays.md",
+    "DSA/Hashing/HashMap.md",
+    "Arrays.md",
+    "Spring Boot/8. Spring JDBC/8.2 Creating a Spring JDBC Project.md",
+    "Untitled.canvas"
   ]
 }
