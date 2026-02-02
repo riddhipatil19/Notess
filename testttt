@@ -1,0 +1,91 @@
+import java.time.LocalDate;
+import java.util.ArrayList;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        // Create list to store patients
+        ArrayList<Patient> patients = new ArrayList<>();
+        
+        // Create patient data
+        patients.add(new Patient("John Smith", "Caucasian", LocalDate.of(1985, 3, 15), "Male"));
+        patients.add(new Patient("Emily Johnson", "African American", LocalDate.of(1992, 7, 22), "Female"));
+        patients.add(new Patient("Michael Brown", "Hispanic", LocalDate.of(1978, 11, 5), "Male"));
+        patients.add(new Patient("Sarah Davis", "Asian", LocalDate.of(2005, 2, 14), "Female"));
+        patients.add(new Patient("David Wilson", "Caucasian", LocalDate.of(2010, 9, 30), "Male"));
+        patients.add(new Patient("Jessica Martinez", "Hispanic", LocalDate.of(1995, 4, 8), "Female"));
+        patients.add(new Patient("Alex Taylor", "Mixed", LocalDate.of(1988, 12, 3), "Other"));
+        patients.add(new Patient("Maria Garcia", "Hispanic", LocalDate.of(2000, 6, 18), "Female"));
+        patients.add(new Patient("Robert Lee", "Asian", LocalDate.of(1970, 1, 25), "Male"));
+        patients.add(new Patient("Jennifer White", "Caucasian", LocalDate.of(2023, 8, 10), "Female"));
+        
+        // Display all patients
+        System.out.println("=== ALL PATIENTS ===");
+        for (int i = 0; i < patients.size(); i++) {
+            patients.get(i).display();
+        }
+        
+        // Age Stratification
+        System.out.println("\n=== AGE STRATIFICATION ===");
+        
+        System.out.println("\nNewborn:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).getAgeCategory().equals("Newborn")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nChild:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).getAgeCategory().equals("Child")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nAdolescent:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).getAgeCategory().equals("Adolescent")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nAdult:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).getAgeCategory().equals("Adult")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nSenior:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).getAgeCategory().equals("Senior")) {
+                patients.get(i).display();
+            }
+        }
+        
+        // Gender Stratification
+        System.out.println("\n=== GENDER STRATIFICATION ===");
+        
+        System.out.println("\nMale:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).gender.equals("Male")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nFemale:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).gender.equals("Female")) {
+                patients.get(i).display();
+            }
+        }
+        
+        System.out.println("\nOther:");
+        for (int i = 0; i < patients.size(); i++) {
+            if (patients.get(i).gender.equals("Other")) {
+                patients.get(i).display();
+            }
+        }
+    }
+}
+
